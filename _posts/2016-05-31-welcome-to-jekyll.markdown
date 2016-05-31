@@ -12,6 +12,7 @@ Jekyll also offers powerful support for code snippets:
 
 
 #THIS IS THE FIRST TEST
+## GITHUB PAGES
 
 {% highlight ruby %}
 def print_hi(name)
